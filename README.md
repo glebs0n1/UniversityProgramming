@@ -1,4 +1,4 @@
-# UniversityProgramming
+# University Programming
 <h2>Java Programming 1st semester 🤓 </h2>
 
 👨🏽‍💻👨🏽‍🏫 Here are the Java Core applications that I did in my first semester at the University.
